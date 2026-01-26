@@ -1,0 +1,4 @@
+batch_id,step,timestamp,user_id,value,unit,status,last_modified_by,last_modified_at
+B001,Weighing,2024-01-10 08:00,user1,10,kg,OK,user1,2024-01-10 08:00
+B001,Mixing,2024-01-10 07:50,user2,12,kg,OK,user2,2024-01-10 08:10
+B002,Weighing,,user1,999,kg,OK,user1,2024-01-11 10:00

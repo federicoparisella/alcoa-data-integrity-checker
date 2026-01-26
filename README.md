@@ -1,7 +1,3 @@
-\## Development Approach
-
-
-
 This project was developed as a personal learning and demonstration tool 
 
 to translate ALCOA+ Data Integrity principles into practical, automated checks.
