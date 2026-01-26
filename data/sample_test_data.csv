@@ -1,0 +1,12 @@
+batch_id,step,timestamp,user_id,value,unit,status,last_modified_by,last_modified_at
+B001,Weighing,2024-01-10 08:00,user1,10,kg,OK,user1,2024-01-10 08:00
+B001,Mixing,2024-01-10 07:50,user2,12,kg,OK,user2,2024-01-10 08:10
+B002,Weighing,,user1,99999,kg,OK,,2024-01-25 10:00
+B002,Mixing,2024-01-11 09:00,,50,kg,OK,user1,2024-01-10 08:00
+B003,Packaging,2024-01-12 08:30,user3,20,kg,OK,user3,2025-01-01 10:00
+B004,Weighing,2024-01-13 08:00,user4,-5,kg,OK,user4,2024-01-13 08:10
+B004,Mixing,2024-01-13 08:05,user4,15,kg,OK,user4,2024-01-13 08:15
+B005,Weighing,2024-01-14 08:00,user5,25,kg,OK,user5,2024-01-14 08:00
+B005,Weighing,2024-01-14 08:00,user5,25,kg,OK,,2024-01-14 08:00
+B006,Weighing,2024-01-15 08:00,user6,abc,kg,OK,user6,2024-01-15 08:00
+B007,Weighing,2024-01-16 08:00,user7,30,kg,OK,user7,2026-01-01 08:00
